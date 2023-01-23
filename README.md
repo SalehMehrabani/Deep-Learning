@@ -3,5 +3,6 @@
 
 **NN2** --> Simple Neural Network in **PyTorch.**
 
-**NN3** --> Exercising Some **PyTorch**
+**NN3** --> Exercising Some **PyTorch** Fundamental.
+
 

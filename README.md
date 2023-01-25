@@ -5,7 +5,9 @@
 
 **NN3** --> Exercising Some **PyTorch** Fundamental.
 
-**NN4** --> **PyTorch** workflow.
+**NN4** --> **PyTorch** Workflow.
+
+**NN5** --> **PyTorch** Workflow - (Enhanced - Recommended)
 
 
 

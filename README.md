@@ -9,5 +9,7 @@
 
 **NN5** --> **PyTorch** Workflow - (Enhanced - Recommended)
 
+**NN6** --> Neural Network Classification in **PyTorch**
+
 
 

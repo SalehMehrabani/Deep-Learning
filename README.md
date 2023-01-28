@@ -11,5 +11,7 @@
 
 **NN6** --> Neural Network Classification in **PyTorch**
 
+**NN7** --> Fraud Detection - Unbalanced Dataset - SMOTE - **PyTorch** 
+
 
 

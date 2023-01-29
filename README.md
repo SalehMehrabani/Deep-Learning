@@ -13,5 +13,6 @@
 
 **NN7** --> Fraud Detection - Unbalanced Dataset - SMOTE - **PyTorch** 
 
+**NN8** --> Fraud Detection - Unbalanced Dataset - Class Weighting - **PyTorch** 
 
 

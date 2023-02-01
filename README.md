@@ -15,4 +15,6 @@
 
 **NN8** --> Fraud Detection - Unbalanced Dataset - Class Weighting - **PyTorch** 
 
+**NN9** --> Multi-Class Classification **PyTorch** 
+
 

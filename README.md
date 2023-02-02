@@ -15,4 +15,6 @@
 
 **NN9** --> Multi-Class Classification **PyTorch** 
 
+**NN10** --> Breast Cancer Detection - **PyTorch** 
+
 

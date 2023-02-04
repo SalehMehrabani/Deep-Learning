@@ -1,4 +1,4 @@
-# Artifical-Intelligance
+# Neural Networks
 **NN1** --> Tensor, Dataset and DataLoader in **PyTorch.**
 
 **NN3** --> Exercising Some **PyTorch** Fundamental.

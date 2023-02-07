@@ -13,7 +13,7 @@ def set_device():
     Returns:
     If the CUDA (GPU) device is available, then return device equal to "cuda", else return device equal to "cpu".
     """
-    device = "cuda" if torch.cuda.is_avaliable() else "cpu"
+    device = "cuda" if torch.cuda.is_available() else "cpu"
     return device
 
 

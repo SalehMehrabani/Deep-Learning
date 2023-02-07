@@ -6,16 +6,6 @@ from torch import nn
 from torch.utils.data import DataLoader, Dataset
 
 
-#A function to set device in PyTorch
-def set_device():
-    """
-    A Function to set Computation Device Type
-    Returns:
-    If the CUDA (GPU) device is available, then return device equal to "cuda", else return device equal to "cpu".
-    """
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-    return device
-
 
 
 def train_step(model: torch.nn.Module,

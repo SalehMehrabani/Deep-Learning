@@ -4,4 +4,4 @@
 
 **CNN2** -> Tiny VGG Convolutional Neural Network - Omniglot Dataset - **PyTorch** - Failure - Exercise
 
-**CNN3** ->  Convolutional Neural Network - Food 101 Dataset - **PyTorch**
+**CNN3** ->  Convolutional Neural Network - Food 101 Dataset - **PyTorch** - Functionaizing Training step, Testing step, Train Loop
